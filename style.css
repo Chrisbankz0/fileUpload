@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.upload{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 75vh;
+    margin: 0;
+}
